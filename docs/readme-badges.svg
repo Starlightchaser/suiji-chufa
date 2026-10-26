@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="40" viewBox="0 0 660 40" role="img" aria-labelledby="title">
+  <title id="title">v0.1体验版、28个目的地、电脑和手机</title>
+  <g font-family="Microsoft YaHei,PingFang SC,Arial,sans-serif" font-size="13" text-anchor="middle">
+    <rect x="0" y="2" width="212" height="36" rx="18" fill="#173e59"/>
+    <text x="106" y="25" fill="#faf6ed">v0.1 · 体验版</text>
+    <rect x="224" y="2" width="212" height="36" rx="18" fill="#fff0d4"/>
+    <text x="330" y="25" fill="#62431b">28 个目的地 · 抽一站看看</text>
+    <rect x="448" y="2" width="212" height="36" rx="18" fill="#e7f2e9"/>
+    <text x="554" y="25" fill="#294d35">电脑 / 手机 · 随手打开</text>
+  </g>
+</svg>
