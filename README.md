@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#预览">先看界面</a> · <a href="#核心功能">怎么玩</a> · <a href="#接下来怎么玩">接下来的版本</a>
+  <a href="https://starlightchaser.github.io/suiji-chufa/">在线抽一站 ↗</a> · <a href="#预览">先看界面</a> · <a href="#核心功能">怎么玩</a> · <a href="#接下来怎么玩">接下来的版本</a>
 </p>
 
 ## 一句话需求
@@ -205,7 +205,7 @@ python -m http.server 8000 --directory site
 
 发布包使用 GitHub Actions 上传 `site/` 静态文件并部署到 Pages。仓库启用 Pages 的 GitHub Actions 发布来源后，推送到默认分支即可更新站点；也可以手动触发工作流。
 
-第一次部署完成后，将实际网址填写到本文的预览入口。此后把网址发给朋友，就能在电脑和手机远程体验。
+在线体验：[随即出发](https://starlightchaser.github.io/suiji-chufa/)。把网址发给朋友，就能在电脑和手机远程体验。
 
 部署配置依据 [GitHub Pages 官方工作流说明](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)。
 
